@@ -4,7 +4,8 @@
 🔥 Can you expose the Imposter before it's too late?
 
 🌐 Play instantly on the website - https://j-vrvis.github.io/Aaranu-Imposter/
-📱 Download the APK for Android - [![Download APK](https://shields.io)](https://J-vrvis.github.io/Imposter_Aaranu.apk)
+📱 Download the APK for Android -[📥 Click Here to Download APK](https://github.com)
+
 
 
 

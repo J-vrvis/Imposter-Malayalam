@@ -8,11 +8,9 @@
   Trust no one. Find the Imposter. Survive.
 </p>
 <p align="center">
-
-<a href="https://github.com/J-vrvis/Imposter-Malayalam/raw/refs/heads/main/Imposter_Aaranu.apk">
-  <img src="https://img.shields.io/badge/⬇️_Download-v1.1-brightgreen?style=for-the-badge">
-</a>
-
+  <a href="https://github.com/J-vrvis/Imposter-Malayalam/raw/refs/heads/main/Imposter_Aaranu.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.1-black?style=for-the-badge&logo=android&logoColor=white">
+  </a>
 </p>
 # Imposter-Malayalam
 🕵️ Aaranu Imposter is a Malayalam replice of the party game "Guess the spy" Trust no one. Find the Imposter. Survive.  Aaranu Imposter is a fast paced multiplayer party mystery game where everyone has a role, but not everyone is on your side. Uncover suspicious behavior, discuss your findings, and vote wisely.

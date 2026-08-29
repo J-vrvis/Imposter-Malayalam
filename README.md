@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 
-<a href="https://github.com/J-vrvis/Imposter-Malayalam/releases/download/v1.1.0/Imposter_Aaranu.apk">
+<a href="https://github.com/J-vrvis/Imposter-Malayalam/raw/refs/heads/main/Imposter_Aaranu.apk">
   <img src="https://img.shields.io/badge/⬇️_Download-v1.1-brightgreen?style=for-the-badge">
 </a>
 

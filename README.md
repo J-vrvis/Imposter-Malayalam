@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="logo.png" width="200">
+</p>
+
+<h1 align="center">🕵️ Aaranu Imposter</h1>
+
+<p align="center">
+  Trust no one. Find the Imposter. Survive.
+</p>
 # Imposter-Malayalam
 🕵️ Aaranu Imposter is a Malayalam replice of the party game "Guess the spy" Trust no one. Find the Imposter. Survive.  Aaranu Imposter is a fast paced multiplayer party mystery game where everyone has a role, but not everyone is on your side. Uncover suspicious behavior, discuss your findings, and vote wisely.
 

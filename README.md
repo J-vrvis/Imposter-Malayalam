@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/J-vrvis/Imposter-Malayalam/raw/refs/heads/main/Imposter_Aaranu.apk">
-    <img src="https://img.shields.io/badge/Download%20APK-v1.1-black?style=for-the-badge&logo=android&logoColor=white">
+    <strong>📱 Download Aaranu Imposter v1.1</strong>
   </a>
 </p>
 # Imposter-Malayalam
